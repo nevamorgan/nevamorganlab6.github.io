@@ -6,7 +6,7 @@ website:
   title: "Neva Morgan ESS330 - Lab 6"
   navbar:
     left:
-      - href: lab6.qmd
+      - href: index.qmd
         text: Home
 
 format:
